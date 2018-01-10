@@ -1,11 +1,17 @@
 # python-audio-visualizer
+
 a basic audio spectrum visualizer
-<br>
-##Requirements
+
+## Requirements
+
 *pygame
 *numpy
 *scipy
-##Usage
+
+## Usage
+
 $ python Visualizer.py filename.wav
-##DEMO
+
+## DEMO
+
 ![](https://raw.githubusercontent.com/JoeyYi/python-audio-visualizer/master/screenshot.gif)  
