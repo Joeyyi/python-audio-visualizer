@@ -10,7 +10,10 @@ a basic audio spectrum visualizer
 
 ## Usage
 
+```
 $ python Visualizer.py filename.wav
+```
+Use RETURN and SPACE to control playback
 
 ## DEMO
 
