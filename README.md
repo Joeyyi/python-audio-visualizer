@@ -4,9 +4,9 @@ a basic audio spectrum visualizer
 
 ## Requirements
 
-*pygame
-*numpy
-*scipy
+* pygame
+* numpy
+* scipy
 
 ## Usage
 
